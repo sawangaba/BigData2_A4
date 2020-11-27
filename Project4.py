@@ -2,7 +2,7 @@
 
 # # Mall Customer Segmentation using K-Means clustering
 # 
-# ## By: Anshul
+# By: Sawan
 # 
 
 
@@ -269,4 +269,4 @@ fig = go.Figure(data=trace1, layout=layout)
 py.offline.iplot(fig)
 
 
-# ###                                       Project done by Anshul
+# ###                                       Project done by Sawan
